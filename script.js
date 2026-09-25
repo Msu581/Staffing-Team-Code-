@@ -24,7 +24,7 @@ const CONFIG = {
         Anyone who can load this page can read these values in the
         page source. See "Security limitations" in README.md. */
   CREDENTIALS: [
-    { id: "SuperAdmin123", password: "Medhavi@128", display: "SuperAdmin123" },
+    { id: "SuperAdmin123", password: "Medhavi@1238", display: "SuperAdmin123" },
     { id: "mahi", password: "Medhavi@128", display: "Mahi" },
     { id: "shubham", password: "Medhavi@128", display: "Shubham" }
     // add more team members here, same shape:
